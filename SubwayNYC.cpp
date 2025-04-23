@@ -1,10 +1,4 @@
-#include <iostream>
-#include <vector>
-#include <unordered_map>
-#include <queue>
-#include <limits>
-#include <string>
-#include <algorithm>
+#include <bits.stdc++.h>
 
 using namespace std;
 
